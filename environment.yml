@@ -1,4 +1,4 @@
-name: DAML
+name: daml
 channels:
   - defaults
 dependencies:
@@ -33,6 +33,7 @@ dependencies:
       - jupyter-core==5.3.2
       - matplotlib-inline==0.1.6
       - nest-asyncio==1.5.8
+      - numpy==1.26.1
       - packaging==23.2
       - parso==0.8.3
       - pexpect==4.8.0
@@ -50,5 +51,4 @@ dependencies:
       - tornado==6.3.3
       - traitlets==5.11.2
       - wcwidth==0.2.8
-prefix: /Users/riccardopersello/Documents/Università/Magistrale/Data Analytics and
-  Machine Learning/.conda
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/daml
