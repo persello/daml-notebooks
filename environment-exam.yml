@@ -1,0 +1,4 @@
+name: daml-exam
+channels:
+  - defaults
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/daml-exam
