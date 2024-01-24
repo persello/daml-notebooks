@@ -1,5 +1,6 @@
 **/__pycache__/
 **/__dataset__/
+**/__models__/
 **/.DS_Store
 **/**.pt
 **.zip
